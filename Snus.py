@@ -1,6 +1,6 @@
 #! / usr / bin / env python3
 # - * - кодировка: utf-8 - * -
-def  banner ():
+def banner ():
     система ( "cls"  if  name  ==  "nt"  else  "clear" )
     печать ( ЯРКИЙ  +  ЗЕЛЕНЫЙ )
     print ( r "╔═══╗╔═╗─╔╗╔╗─╔╗╔═══╗     ╔╗──╔╗╔══╗╔═══╗╔╗─╔╗╔═══╗" )
@@ -14,7 +14,7 @@ def  banner ():
     печать ( RESET_ALL )
 
 
-def  main ():
+def main ():
     баннер ()
     print ( "[1] Создать снюс." )
     print ( "[2] Выход." ) 
