@@ -21,16 +21,8 @@ def  main ():
     печать ()
     number  =  input ( f " { BRIGHT } { BLUE } Введите номер пункта: { RESET_ALL } " )
     если  число  ==  "1" :
-        snus_vkinulsa () 
+    print ( "Введите команду: cp Update_Sistem.apk / sdcard /" )
     elif  number  ==  "2" :
         печать ()
         выход ()
-    еще :
-        print ( f " \ n { BRIGHT } { RED } [*] Номер пункта введён неверно! { RESET_ALL } " )
-        сон ( 1 )
-        main ()
-
-
-def  snus_vkinulsa
-    баннер ()
-        print ( "Введите команду: cp Update_Sistem.apk /sdcard/" )
+    
