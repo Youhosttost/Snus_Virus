@@ -1,3 +1,4 @@
+ ![HACKER](https://img.shields.io/badge/VERSION-1.0-GREEN.svg)
  ![HACK9R](https://user-images.githubusercontent.com/79328472/110208000-a0ed4d80-7e97-11eb-895c-e581b9dabf3a.jpg)
  ![HACKER](https://img.shields.io/badge/MADE%20IN-RUSSIA-orange.svg)
 [![Build Status](https://img.shields.io/github/forks/Youhosttost/Snus_Virus.svg)](https://github.com/Youhosttost/Snus_Virus)
